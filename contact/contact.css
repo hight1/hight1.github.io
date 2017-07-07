@@ -1,0 +1,27 @@
+#contact{
+    width:1000px;
+    height:1000px;
+}
+#con-1{
+    font-size: 3em;
+    font-weight: 300;
+    margin: 50px 0 20px 0;
+    color:#fdb45c;
+}
+#con-2{
+    margin: 0 auto;
+    padding-bottom: 15px;
+    font-size: 1.7em;
+    line-height: 1.8;
+    color:#fdb45c;
+}
+#con-right,#con-left{
+    position: absolute;
+    top:20px;
+}
+#con-right{
+  right:10px;
+}
+#con-left{
+    right: 60px;
+}
