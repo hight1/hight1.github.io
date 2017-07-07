@@ -1,0 +1,20 @@
+.redBorder,
+.greenBorder,
+.yellowBorder {
+    border-top: 8px solid #282b36;
+    width: 33.33%;
+    float: left;
+    height: 16px;
+    position: relative;
+
+    z-index: 999;
+}
+.redBorder {
+    background-color: #f33e6f;
+}
+.greenBorder {
+    background-color: #46bfbd;
+}
+.yellowBorder {
+    background-color: #fdb45c;
+}
