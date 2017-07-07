@@ -1,0 +1,31 @@
+#introduce{
+    position: absolute;
+    font-weight: bold;
+    right: 120px;
+    bottom: 200px;
+    z-index:999;
+    color:#fbe092;
+}
+#mune2{
+
+    border-radius: 50%;
+    border:2px solid #fbe092;
+}
+#mune2.button{
+    min-height: 43px;
+    min-width: 43px;
+}
+#mune{
+    background-color:#FBE095 ;
+}
+.item{
+    background-color:#3B2F29;
+
+}
+.item#head{
+    height:280px;
+}
+#tou{
+    width: 100px;
+    height: 100px;
+}
