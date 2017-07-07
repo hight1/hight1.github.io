@@ -1,0 +1,27 @@
+#first{
+    margin-bottom: 20px;
+}
+#fir{
+    line-height:180px;
+    padding-left: 180px;
+    padding-right: 170px;
+    font-size: 3em;
+    width:100%;
+    border-bottom:1px solid navajowhite;
+    color: #fbe092;
+}
+#but{
+    position: absolute;
+    right:-220px;
+    top:20px;
+}
+.quan{
+    width: 150px;
+   height:200px;
+    margin:0 auto;
+}
+#right{
+    position: absolute;
+    right:-270px;
+    top:20px;
+}
